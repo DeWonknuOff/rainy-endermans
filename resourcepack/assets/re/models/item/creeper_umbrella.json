@@ -1,0 +1,6 @@
+{
+	"parent": "re:item/red_umbrella",
+	"textures": {
+		"0": "re:item/creeper_umbrella"
+	}
+}

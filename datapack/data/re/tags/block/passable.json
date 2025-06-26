@@ -1,0 +1,15 @@
+{
+    "values": [
+        "#air",
+        "light",
+        "water",
+        "lava",
+        "torch",
+        "redstone_torch",
+        "tall_grass",
+        "short_grass",
+        "short_dry_grass",
+        "bush",
+        "barrier"
+    ]
+}

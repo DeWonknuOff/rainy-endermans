@@ -1,0 +1,20 @@
+{
+   "pack":{
+      "pack_format": 80,
+      "supported_formats": [
+            71,
+            80
+        ],
+      "description": [
+		{
+			"text": "☂ Rainy Endermans ☂",
+			"color": "#f54545"
+		},
+		"\n",
+		{
+			"text": "By Dewonic",
+			"color": "#ea9d9d"
+		}
+	  ]
+   }
+}
