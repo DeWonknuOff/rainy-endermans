@@ -11,7 +11,7 @@ This datapack/mod adds rain hats to Enderman, allowing them to walk freely durin
 Give the nearest enderman a funny hat:
 
 ```mcfunciton
-/execute as @n[type=enderman,tag=!re.process] run function re:entity/enderman/hat/set
+/execute as @n[type=enderman,tag=!re.has_hat] run function re:entity/enderman/hat/set
 ```
 
 <hr>
